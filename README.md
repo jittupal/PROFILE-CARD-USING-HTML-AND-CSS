@@ -1,2 +1,2 @@
-![New Tab - Google Chrome 10_24_2023 3_38_55 PM](https://github.com/jittupal/PROFILE-CARD-USING-HTML-AND-CSS/assets/128616359/896a4421-4cad-4350-9721-7ceb2f3ae877)
 # PROFILE-CARD-USING-HTML-AND-CSS
+![New Tab - Google Chrome 10_24_2023 3_38_55 PM](https://github.com/jittupal/PROFILE-CARD-USING-HTML-AND-CSS/assets/128616359/896a4421-4cad-4350-9721-7ceb2f3ae877)
